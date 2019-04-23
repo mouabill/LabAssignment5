@@ -1,3 +1,11 @@
 .row-one {
     background-color: burlywood
 }
+
+.nav-buttons {
+    margin-right: 10px;
+}
+
+.toolbar {
+    height: 100%;
+}
